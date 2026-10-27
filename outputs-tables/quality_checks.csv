@@ -1,0 +1,11 @@
+check,rows_flagged
+negative values in numeric columns,0
+shots_on_target greater than shots,0
+successful_passes greater than total_passes,0
+successful_dribbles greater than dribbles_attempted,0
+successful_crosses greater than crosses,0
+"pass_accuracy outside [0, 1]",0
+"save_percentage outside [0, 1]",0
+age outside 15-60,0
+minutes_played outside 0-120,0
+clean_sheet not binary,0

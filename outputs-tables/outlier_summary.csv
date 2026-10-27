@@ -1,0 +1,7 @@
+metric,q1,q3,iqr,lower_bound,upper_bound,rows_flagged,percent_flagged,note
+goals,0.0,0.0,0.0,0.0,0.0,2743,5.023809523809524,Potential outliers only; no rows were removed.
+assists,0.0,0.0,0.0,0.0,0.0,2664,4.879120879120879,Potential outliers only; no rows were removed.
+shots,0.0,1.0,1.0,-1.5,2.5,2555,4.67948717948718,Potential outliers only; no rows were removed.
+minutes_played,0.0,75.0,75.0,-112.5,187.5,0,0.0,Potential outliers only; no rows were removed.
+player_rating,0.0,6.4,6.4,-9.600000000000001,16.0,0,0.0,Potential outliers only; no rows were removed.
+performance_score,0.7,64.1,63.39999999999999,-94.39999999999999,159.2,0,0.0,Potential outliers only; no rows were removed.
